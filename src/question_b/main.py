@@ -16,4 +16,4 @@ else:
     print("\nThe car went an average of", result, "mph over the", km, "kilometer interval\n") #values are good so print results
 
 
-#if 0 is entered for min then divide by zero happens and this wasn't apart of the est requirements/question
+#if 0 is entered for min then divide by zero happens and this wasn't apart of the test requirements/question
