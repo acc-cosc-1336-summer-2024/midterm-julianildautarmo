@@ -2,7 +2,7 @@
 #Part 2.3
 
 import question_b
-xy = 0
+
 km = input("\nHow far did the car drive? (in kilometers)\n") #get user input of distance
 mins = input("\nHow long did it take the car to go that far? (in minutes)\n") #get user input for time
 
